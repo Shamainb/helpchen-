@@ -1,0 +1,23 @@
+Git Commands and Their Functions
+
+1. git init - Initialize a new Git repository.
+2. git clone <repository_URL> - Clone a repository from a remote URL to your local machine.
+3. git add <file(s)> - Add file(s) to the staging area for the next commit.
+4. git commit -m "<commit_message>" - Commit changes to the repository with a descriptive message.
+5. git status - Show the status of files in the repository (untracked, modified, staged).
+6. git push - Push committed changes from your local repository to a remote repository.
+7. git pull - Fetch changes from a remote repository and merge them into the current branch.
+8. git branch - List all branches in the repository or create a new branch.
+9. git checkout <branch_name> - Switch to a different branch.
+10. git merge <branch_name> - Merge changes from a specified branch into the current branch.
+11. git log - View a log of all commits in the repository.
+12. git reset <file(s)> - Unstage file(s) from the staging area.
+13. git remote - View remote repositories associated with the local repository.
+14. git fetch - Download objects and references from another repository.
+15. git revert <commit_hash> - Revert specified commit(s) from the repository.
+16. git stash - Temporarily store changes that are not ready to be committed.
+17. git tag <tag_name> - Create a lightweight tag for a specific commit.
+18. git cherry-pick <commit_hash> - Apply changes introduced by some existing commits.
+19. git diff - Show changes between commits, commit and working tree, etc.
+20. git submodule - Initialize, update, or inspect submodules within the repository.
+
